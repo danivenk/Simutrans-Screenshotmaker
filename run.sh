@@ -75,6 +75,10 @@ then
     printf "   PATH EXE\t - path to simutrans exe\n"
     printf "   PAKSET NAME\t - name of pakset\n"
     printf "   SAVEFILE\t - name of savefile\n"
+    printf "   POS1/POS2\t - position of the area to be screenshotted\n"
+    printf "   SCREENSHOTS LOCATION\t - location Simutrans saves screenshots\n"
+    printf "   PAKSET SIZE\t - pakset size\n"
+    printf "   OUTPUT NAME\t - name of the resulting image\n"
     exit 1
 fi
 
