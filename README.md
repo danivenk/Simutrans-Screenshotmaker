@@ -1,4 +1,5 @@
 # Screenshotmaker
+(2022 - now)
 This is a screenshot maker for the game Simutrans using a shell script to achieve higher resolution bigger screenshots of an area the user wants to screenshot.
 
 WARNING: It only works with builds of Simutrans that can be opened in the command line with at a specific coordinate in the map (like can be done in [teamhimeh/simutrans's OTRP branch](https://github.com/teamhimeh/simutrans)
